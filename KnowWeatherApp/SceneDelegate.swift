@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  KnowWeatherApp
 //
-//  Created by Paresh  Karnawat on 23/06/22.
-//
 
 import UIKit
 
